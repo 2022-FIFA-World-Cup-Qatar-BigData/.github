@@ -1,5 +1,3 @@
-# .github
-
 ![슬라이드1](https://user-images.githubusercontent.com/55645090/232449752-2340cc4e-5d65-4332-a67b-24a27d01bec0.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/55645090/232449759-6e0e8092-b26a-4a59-9177-f31e0096e0f7.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/55645090/232449760-a557918a-ae6b-4e48-89fa-7709b9874bc4.JPG)
